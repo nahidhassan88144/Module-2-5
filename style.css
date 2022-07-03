@@ -24,3 +24,12 @@
     font-size: 20px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
+.tre-pic{
+    width: 700px;
+    margin: 20px auto;
+}
+.tre-pic img{
+    width: 700px;
+    border-radius: 05px;
+}
